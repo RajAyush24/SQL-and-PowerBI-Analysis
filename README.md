@@ -31,6 +31,11 @@ The SQL queries used for the analysis are available in the (https://github.com/R
 
 **Power BI Analysis**
 - After conducting the analysis using SQL, the pizza_sales.csv file was imported into Power BI. The same key indicators were analyzed and visualized using various charts and graphs. This process ensured that the visualized data matched the SQL analysis.
+- Steps Involved are:
+  - Data cleaning
+  - Data processing
+  - Data visualization
+  - Report/Dashboard
 
 **Dashboard**
 - A comprehensive dashboard was created in Power BI to showcase the analyzed parameters. The dashboard provides insights into the sales performance and trends.
