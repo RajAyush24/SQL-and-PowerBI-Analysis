@@ -7,7 +7,6 @@ This repository contains the analysis of the pizza_sales.csv file. The analysis 
 - SQL Analysis
 - Power BI Analysis
 - Dashboard
-- Usage
 - Files in Repository
 - Conclusion
 
@@ -28,4 +27,14 @@ This repository contains the analysis of the pizza_sales.csv file. The analysis 
   - Top 5 Pizzas by Revenue
   - Bottom 5 Pizzas by Revenue
 
-The SQL queries used for the analysis are available in the sql_analysis.sql file in this repository.
+The SQL queries used for the analysis are available in the (https://github.com/RajAyush24/SQL-and-PowerBI-Analysis/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx) file in this repository.
+
+**Power BI Analysis**
+- After conducting the analysis using SQL, the pizza_sales.csv file was imported into Power BI. The same key indicators were analyzed and visualized using various charts and graphs. This process ensured that the visualized data matched the SQL analysis.
+
+**Dashboard**
+- A comprehensive dashboard was created in Power BI to showcase the analyzed parameters. The dashboard provides insights into the sales performance and trends.
+  - https://bitmesra-my.sharepoint.com/:u:/g/personal/btech10806_21_bitmesra_ac_in/EXJirwIqvb1PiNA-Dtv6HywBoN0Tvc1g0hk2WYzkJ6Fxjg?e=8KJFLx
+ 
+**Conclusion**
+-This project demonstrates the process of analyzing a dataset using SQL and visualizing the same data using Power BI to create a comprehensive dashboard. The key indicators derived from the data provide valuable insights into pizza sales performance and trends.
