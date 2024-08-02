@@ -15,5 +15,5 @@ This repository contains the analysis of the pizza_sales.csv file. The analysis 
 - The goal of this project was to analyze the pizza sales data to extract key indicators and then visualize these indicators using Power BI. This helps in understanding the data better and ensuring that the visualizations match the results obtained from SQL queries.
 
 **Data Source**
-- The data used for this analysis is from the file pizza_sales.csv, which contains sales records of pizzas.
+- The data used for this analysis is from the file pizza_sales.csv (https://github.com/RajAyush24/SQL-and-PowerBI-Analysis/blob/main/pizza_sales.csv), which contains sales records of pizzas.
 
