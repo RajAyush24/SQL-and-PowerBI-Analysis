@@ -42,4 +42,4 @@ The SQL queries used for the analysis are available in the (https://github.com/R
   - https://bitmesra-my.sharepoint.com/:u:/g/personal/btech10806_21_bitmesra_ac_in/EXJirwIqvb1PiNA-Dtv6HywBoN0Tvc1g0hk2WYzkJ6Fxjg?e=8KJFLx
  
 **Conclusion**
--This project demonstrates the process of analyzing a dataset using SQL and visualizing the same data using Power BI to create a comprehensive dashboard. The key indicators derived from the data provide valuable insights into pizza sales performance and trends.
+- This project demonstrates the process of analyzing a dataset using SQL and visualizing the same data using Power BI to create a comprehensive dashboard. The key indicators derived from the data provide valuable insights into pizza sales performance and trends.
